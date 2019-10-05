@@ -16,7 +16,7 @@ enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
-
+clear
 figlet TJZ TOOLS | lolcat
 
 echo   "_____________________________________________________________
